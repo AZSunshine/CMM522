@@ -1,0 +1,16 @@
+ls: cannot access latest_nature_paper/: No such file or directory
+/home/u25/alicesweedo/ccbb_projects/:
+error_test.sbatch
+importantFiles.sbatch
+importantResults
+name.txt
+P69905.fasta
+research.txt
+slurm-2113263.out
+slurm-2113266.out
+slurm-2113269.out
+slurm-2113273.out
+slurm-3349445.out
+test_bash.sbatch
+test_bash.sh
+variables.txt
